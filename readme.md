@@ -1,4 +1,4 @@
-### Wadup, I'm Patrick Mataba! ✌
+### Wadup, I'm Pat! ✌
 
 I work as a full-stack web developer with hybrid mobile app development skills (app developer). I'm based in Legazpi, Philippines.
 
