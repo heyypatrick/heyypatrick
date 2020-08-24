@@ -28,7 +28,7 @@ Currently improving my mobile app development skills with Angular, Ionic and Lar
         mobile_app: ["Ionic", "Angular", "Capacitor", "Cordova"],
         databases: ["MySQL", "MongoDB"],
         package_managers: ["composer", "npm", "homebrew"],
-        tools: ["Xcode", "Android Studio", "Postman", "Git"],
+        tools: ["Xcode", "Android Studio", "Postman", "Git", "PhpStorm"],
         misc: ["Contentful", "Pusher"],
     },
     architecture: ["Single page applications"],
