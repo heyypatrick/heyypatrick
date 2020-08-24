@@ -2,7 +2,7 @@
 
 I work as a full-stack web developer with hybrid mobile app development skills (app developer). I'm based in Legazpi, Philippines.
 
-Since 2018, I started my career in building modern, efficient and modern user friendly interfaces. 
+Since 2018, I started my career in building modern, efficient and modern user friendly interfaces. Also, I am into development of RESTful web services. 
 
 ### What I'm focusing on 👨‍💻
 
