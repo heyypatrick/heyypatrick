@@ -2,6 +2,8 @@
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=heyypatrick&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 ### Wadup, I'm Pat! ✌
 
@@ -14,15 +16,15 @@ Since 2018, I started my career in web development building modern, efficient an
 Currently improving my mobile app development skills with Angular, Ionic and Laravel as a back-end and front-end skill with Angular.<br />
 
 ### Stacks
-```
+```javascript
   let me = {
     ask_me: ["app development", "web development", "technology"],
-    stacks:{
+    stacks: {
         back_end: ["PHP(Laravel)", "Python"],
         front_end: ["HTML5", "Angular", "SASS", "CSS"],
         mobile_app: ["Ionic", "Angular", "Capacitor" ],
         databases: ["MySQL", "MongoDB"],
-        tools: ["xCode", "Android Studio", "Postman"]
+        tools: ["Xcode", "Android Studio", "Postman"]
         misc: ["Contentful", "Pusher"]
     },
     architecture: ["Single page applications"],
