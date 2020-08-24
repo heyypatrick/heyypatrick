@@ -18,13 +18,16 @@ Currently improving my mobile app development skills with Angular, Ionic and Lar
 ### Stacks :computer:
 ```javascript
   let me = {
+    favorite_quote: "It works on my local.",
     ask_me: ["app development", "web development", "technology"],
+    preferred_local_env: 'Ubuntu Linux',
     stacks: {
         back_end: ["PHP(Laravel)", "Python"],
         front_end: ["HTML5", "Angular", "SASS", "CSS"],
-        mobile_app: ["Ionic", "Angular", "Capacitor" ],
+        mobile_app: ["Ionic", "Angular", "Capacitor", "Cordova"],
         databases: ["MySQL", "MongoDB"],
-        tools: ["Xcode", "Android Studio", "Postman"]
+        package_managers: ["composer", "npm"]
+        tools: ["Xcode", "Android Studio", "Postman", "Git"]
         misc: ["Contentful", "Pusher"]
     },
     architecture: ["Single page applications"],
