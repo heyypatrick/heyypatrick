@@ -24,7 +24,7 @@ Currently improving my mobile app development skills with Angular, Ionic and Lar
     stacks: {
         back_end: ["PHP(Laravel)", "Python"],
         front_end: ["HTML5", "Angular", "Typescript"],
-        aesthetics: ["sass", "css"],
+        aestethics: ["sass", "css"],
         mobile_app: ["Ionic", "Angular", "Capacitor", "Cordova"],
         databases: ["MySQL", "MongoDB"],
         package_managers: ["composer", "npm", "homebrew"],
