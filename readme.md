@@ -18,7 +18,7 @@ Currently improving my mobile app development skills with Angular, Ionic and Lar
 ### Stacks :computer:
 ```javascript
   let me = {
-    favorite_quote: "It works on my local.",
+    favorite_quote: "It's working on my machine.",
     ask_me: ["app development", "web development", "technology"],
     preferred_local_env: 'Ubuntu Linux',
     stacks: {
