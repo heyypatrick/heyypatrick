@@ -16,3 +16,19 @@ Currently improving my mobile app development skills with Angular, Ionic and Lar
 ### Find me elsewhere 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickmataba//)](https://www.linkedin.com/in/patrickmataba/)
+
+### Stacks 🌎
+```
+  let me = {
+    ask_me: ["app development", "web development", "technology"],
+    stacks:{
+        back_end: ["PHP(Laravel)", "Python"],
+        front_end: ["HTML5", "Angular", "SASS", "CSS"],
+        mobile_app: ["Ionic", "Angular", "Capacitor" ],
+        databases: ["MySQL", "MongoDB"],
+        tools: ["xCode", "Android Studio", "Postman"]
+        misc: ["Contentful", "Pusher"]
+    },
+    architecture: ["Single page applications"],
+  }
+```
