@@ -23,10 +23,11 @@ Currently improving my mobile app development skills with Angular, Ionic and Lar
     preferred_local_env: 'Ubuntu Linux',
     stacks: {
         back_end: ["PHP(Laravel)", "Python"],
-        front_end: ["HTML5", "Angular", "SASS", "CSS"],
+        front_end: ["HTML5", "Angular", "Typescript"],
+        aesthetics: ["sass", "css"],
         mobile_app: ["Ionic", "Angular", "Capacitor", "Cordova"],
         databases: ["MySQL", "MongoDB"],
-        package_managers: ["composer", "npm"],
+        package_managers: ["composer", "npm", "homebrew"],
         tools: ["Xcode", "Android Studio", "Postman", "Git"],
         misc: ["Contentful", "Pusher"],
     },
