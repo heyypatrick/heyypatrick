@@ -13,11 +13,7 @@ Since 2018, I started my career in web development building modern, efficient an
 
 Currently improving my mobile app development skills with Angular, Ionic and Laravel as a back-end and front-end skill with Angular.<br />
 
-### Find me elsewhere 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickmataba//)](https://www.linkedin.com/in/patrickmataba/)
-
-### Stacks 🌎
+### Stacks
 ```
   let me = {
     ask_me: ["app development", "web development", "technology"],
@@ -32,3 +28,7 @@ Currently improving my mobile app development skills with Angular, Ionic and Lar
     architecture: ["Single page applications"],
   }
 ```
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickmataba//)](https://www.linkedin.com/in/patrickmataba/)
