@@ -5,17 +5,17 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-### Wadup, I'm Pat! ✌
+### Wadup, I'm Pat! :wave:
 
 I work as a full-stack web developer with hybrid mobile app development skills (app developer). I'm based in Legazpi, Philippines.
 
 Since 2018, I started my career in web development building modern, efficient and modern user friendly interfaces. Also, I'm into development of hybrid mobile applications that utilizes Laravel as a back-end with an experience in deploying applications into their respective platforms like Apple App Store and Android Playstore.
 
-### What I'm focusing on 👨‍💻
+### What I'm focusing on :nerd_face:
 
 Currently improving my mobile app development skills with Angular, Ionic and Laravel as a back-end and front-end skill with Angular.<br />
 
-### Stacks
+### Stacks :computer:
 ```javascript
   let me = {
     ask_me: ["app development", "web development", "technology"],
