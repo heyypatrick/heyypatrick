@@ -6,7 +6,7 @@ Since 2018, I started my career in web development building modern, efficient an
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my hybrid mobile app development skill: Angular, Ionic and Laravel as a back-end.<br />
+Currently improving my mobile app development skills with Angular, Ionic and Laravel as a back-end and front-end skill with Angular.<br />
 
 ### Find me elsewhere 🌎
 
