@@ -11,3 +11,7 @@ Currently improving my mobile app development skills with Angular, Ionic and Lar
 ### Find me elsewhere 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickmataba//)](https://www.linkedin.com/in/patrickmataba/)
+
+<p align ="center">
+<img src="https://github-readme-stats.vercel.app/api?username=heyypatrick&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
+</p>
